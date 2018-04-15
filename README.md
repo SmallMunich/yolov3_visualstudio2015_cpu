@@ -9,4 +9,6 @@ No need other lib or configuration
 
 However the cpu version is time-consuming.
 
+Because Windows system is different from time function of Linux system, there may be timing error in engineering. I didn't seriously modify the timing function part, I'm sorry.
+
 my blog link : https://blog.csdn.net/small_munich/article/details/79721466 
